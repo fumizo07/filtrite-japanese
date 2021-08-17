@@ -7,4 +7,4 @@ https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
-https://github.com/mikadukiken/filtrite/blob/main/lists/Myfilter.txt
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
