@@ -7,3 +7,6 @@ https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
+
+#Myfilter
+gamewith.jp##.ad-sp-header.u-mx-a.c-sp-leaderboard-ad
