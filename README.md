@@ -1,4 +1,4 @@
-## filtrite
+## filtrite(Bromite用広告ブロックフィルタ生成ツール)
 filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/).
 See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
 
