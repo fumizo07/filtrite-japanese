@@ -1,11 +1,11 @@
 ## filtrite(Bromite用広告ブロックフィルタ生成ツール)
-filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/).
-See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
+filtriteは、次のフィルターリストを生成するためのプロジェクトです。 [Bromite](https://www.bromite.org/).
+についてのページを参照してください。 詳細についてはこちらをご覧ください。[Custom Ad Block Filters](https://www.bromite.org/custom-filters) 
 
-# Lists
-You can choose any list from below, copy the link and add it in Bromite by going to settings > AdBlock settings, then setting Filters URL to the one you just copied.
+# Lists(リスト)
+以下から任意のリストを選択し、リンクをコピーしてBromiteに追加できます。 設定に移動して、AdBlock settingsを選択。次に、フィルターURLをコピーしたものに設定します。
 
-Here's a list:
+リストは次のとおりです。
 
 
 | Link | Description  |
