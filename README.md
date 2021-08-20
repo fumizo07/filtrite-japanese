@@ -1,6 +1,6 @@
 ## filtrite(Bromite用広告ブロックフィルタ生成ツール)
-・xarantolus氏が作成したfiltriteに日本語の説明文を追加したものです(一部README.mdに改変あり)※現在工事中
-・filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを生成するためのプロジェクトです。
+xarantolus氏が作成したfiltriteに日本語の説明文を追加したものです(一部README.mdに改変あり)※現在工事中
+filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを生成するためのプロジェクトです。
 詳細についてはこちらをご覧ください。[Custom Ad Block Filters](https://www.bromite.org/custom-filters) 
 
 # Lists(リスト)
@@ -24,13 +24,13 @@ This program is designed in a way that allows easily adding new lists.
 
 To create a new list:
 
-1. このリポジトリをフォークしてください
-2. lists→add file→Create new fileを選択して、ファイル名を入力してください。たぶんアルファベット小文字で最後が.txtじゃないとダメです。(例:adblockfilter.txt)
-次に使用したいフィルタのURLをコピペしてCommit new fileをタップしてください。
+1. このリポジトリをフォークしてください。
+2. lists→add file→Create new fileを選択して、txtファイルを作成します。ファイル名を入力してください(例:Myfilter.txt)
+3. 使用したいフィルタのURLをコピペしてCommit new fileをタップしてください。
 Enable GitHub Actions by switching to the "Actions" tab of your repo, then confirming that you want to enable them
-3. Choose a name for the list, e.g. `example-list`
-4. Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
-5. Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
+4. Choose a name for the list, e.g. `example-list`
+5. Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
+6. Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
     ```
     # Lines starting with # are comments, empty lines are also allowed
     # List one URL per line:
