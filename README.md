@@ -28,7 +28,7 @@ To create a new list:
 2. lists→add file→Create new fileを選択して、txtファイルを作成します。ファイル名を入力してください(例:Myfilter.txt)
 3. 使用したいフィルタのURLをコピペしてCommit new fileをタップしてください。
 Enable GitHub Actions by switching to the "Actions" tab of your repo, then confirming that you want to enable them
-4. Choose a name for the list, e.g. `example-list`
+4. Actionsに移動し、Select workflow→Build filterlists→Enable workflowを選択してしばらくお待ちください。Choose a name for the list, e.g. `example-list`
 5. Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
 6. Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
     ```
