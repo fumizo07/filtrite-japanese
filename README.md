@@ -45,5 +45,5 @@ Enable GitHub Actions by switching to the "Actions" tab of your repo, then confi
 7. Check that the generated filter file size is less than the allowed maximum of [10 MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153). If it isn't, you must remove some lists
 8. Set this URL as the filter file in Bromite settings.
 
-### [ライセンス](LICENSE)
-This is free as in freedom software. Do whatever you like with it.
+### [LICENSE](LICENSE)
+[豆腐フィルタ](https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt)
