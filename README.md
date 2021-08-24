@@ -46,4 +46,5 @@ Enable GitHub Actions by switching to the "Actions" tab of your repo, then confi
 8. Set this URL as the filter file in Bromite settings.
 
 ### [LICENSE](LICENSE)
-[豆腐フィルタ](https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt)
+This is free as in freedom software. Do whatever you like with it.
+ご自由にどうぞ
