@@ -26,7 +26,7 @@ filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを
 ### 独自のフィルターリストを使用する
 このプログラムは、新しいリストを簡単に追加できるように設計されています。
 
-To create a new list:
+新しいリストを作成するには:
 
 1. このリポジトリをフォークしてください。
 2. lists→add file→Create new fileを選択して、txtファイルを作成します。ファイル名を入力してください(例:Myfilter.txt)
@@ -35,7 +35,7 @@ Enable GitHub Actions by switching to the "Actions" tab of your repo, then confi
 4. Actionsに移動し、Select workflow→Build filterlists→Enable workflowを選択してしばらくお待ちください。Choose a name for the list, e.g. `example-list`
 5. 黄色のクルクルが止まるまで待ちましょう。緑の✔が出たら成功です！
 Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
-6. Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
+6. Codeに戻り右側のReleasesを選択してください。2で作成したファイル名が表示されているはずなので長押しして、リンクアドレスをコピーしてください。Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
     ```
     # Lines starting with # are comments, empty lines are also allowed
     # List one URL per line:
@@ -45,8 +45,8 @@ Search for filter lists you want to use. You can for example find them [here](ht
     # The following line doesn't work, only put either a comment or an URL in one line, not both
     http://  # Invalid comment on URL
     ```
-5. Save your file, commit and push. GitHub actions should now build the list and create a release
-6. After GitHub Actions generated the release, you can copy the linked URL in the release to always get the latest generated version. This URL looks something like `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
+7. BromiteのAdBlock settingsを開きFilters URL欄に6でコピーしたアドレスをペーストして保存を選択してください。Save your file, commit and push. GitHub actions should now build the list and create a release
+8. Bromite再起動すれば完了です。お疲れ様でした！をAfter GitHub Actions generated the release, you can copy the linked URL in the release to always get the latest generated version. This URL looks something like `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
 7. Check that the generated filter file size is less than the allowed maximum of [10 MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153). If it isn't, you must remove some lists
 8. Set this URL as the filter file in Bromite settings.
 
