@@ -31,7 +31,7 @@ I'm not 100% sure if all list formats that are used are actually supported by [t
 
 1. このリポジトリをフォークしてください。
 2. lists→add file→Create new fileを選択して、txtファイルを作成します。ファイル名を入力してください(例:Myfilter.txt)
-3. 使用したいフィルタのURLをコピペしてCommit new fileをタップしてください。
+3. 使用したいフィルタのURLをコピペしてCommit new fileをタップしてください。1行につき1つのURLを指定します。
 Enable GitHub Actions by switching to the "Actions" tab of your repo, then confirming that you want to enable them
 4. Actionsに移動し、Select workflow→Build filterlists→Enable workflowを選択してしばらくお待ちください。Choose a name for the list, e.g. `example-list`
 5. 黄色のクルクルが止まるまで待ちましょう。緑の✔が出たら成功です！
