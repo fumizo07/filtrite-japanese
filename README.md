@@ -47,7 +47,7 @@ Search for filter lists you want to use. You can for example find them [here](ht
     http://  # Invalid comment on URL
     ```
 7. BromiteのAdBlock settingsを開きFilters URL欄に6でコピーしたアドレスをペーストして保存を選択してください。Save your file, commit and push. GitHub actions should now build the list and create a release
-8. Bromite再起動すれば完了です。お疲れ様でした！をAfter GitHub Actions generated the release, you can copy the linked URL in the release to always get the latest generated version. This URL looks something like `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
+8. Bromiteを再起動すれば完了です。お疲れ様でした！をAfter GitHub Actions generated the release, you can copy the linked URL in the release to always get the latest generated version. This URL looks something like `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
 7. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。
 Check that the generated filter file size is less than the allowed maximum of [10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153). If it isn't, you must remove some lists
 8. Set this URL as the filter file in Bromite settings.
