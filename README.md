@@ -25,7 +25,7 @@ filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを
 CSSルールが使えないらしいです。
 
 
-### 独自のフィルターリストを使用する
+## 独自のフィルターリストを使用する
 このプログラムは、新しいリストを簡単に追加できるように設計されています。
 
 新しいリストを作成するには:
@@ -44,15 +44,10 @@ CSSルールが使えないらしいです。
  ```
 4. Actionsに移動し、Select workflow→Build filterlists→Enable workflowを選択してしばらくお待ちください。
 5. 黄色のクルクルが止まるまで待ちましょう。緑の✔が出たら成功です！
-Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
-6. Codeに戻り右側のReleasesを選択してください。2で作成したファイル名が表示されているはずなので長押しして、リンクアドレスをコピーしてください。Create a file `lists/example-list.txt` (aka in the `lists` directory) that contains the URLs to filter lists you copied before. It should look like this:
-    
-7. BromiteのAdBlock settingsを開きFilters URL欄に6でコピーしたアドレスをペーストして保存を選択してください。Save your file, commit and push. GitHub actions should now build the list and create a release
-8. Bromiteを再起動すれば完了です。お疲れ様でした！をAfter GitHub Actions generated the release, you can copy the linked URL in the release to always get the latest generated version. This URL looks something like `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
-7. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。それ以上の場合はリストを削除する必要があります。
-Check that the generated filter file size is less than the allowed maximum of [10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153). If it isn't, you must remove some lists
-8. Set this URL as the filter file in Bromite settings.
-
+6. Codeに戻り右側のReleasesを選択してください。2で作成したファイル名が表示されているはずなので長押しして、リンクアドレスをコピーしてください。この様なファイルがあれば成功です。 `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
+7. BromiteのAdBlock settingsを開きFilters URL欄に6でコピーしたアドレスをペーストして保存を選択してください。
+8. Bromiteを再起動すれば完了です。お疲れ様でした！
+9. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。それ以上の場合はリストを削除する必要があります。
 ### [LICENSE](LICENSE)
 This is free as in freedom software. Do whatever you like with it.
 
