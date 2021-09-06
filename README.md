@@ -40,7 +40,7 @@ filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを
 
     # The following line doesn't work, only put either a comment or an URL in one line, not both
     http://  # Invalid comment on URL
-    ```
+ ```
 4. Actionsに移動し、Select workflow→Build filterlists→Enable workflowを選択してしばらくお待ちください。
 5. 黄色のクルクルが止まるまで待ちましょう。緑の✔が出たら成功です！
 Search for filter lists you want to use. You can for example find them [here](https://filterlists.com/), use those in "uBlock Origin" or "AdBlock Plus" format (however, it's possible that [not all types of rules are supported](https://github.com/bromite/bromite/wiki/AdBlocking)). Go to info, then "View" and copy the URL to the list.
