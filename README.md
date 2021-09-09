@@ -47,7 +47,8 @@ CSSルールが使えないらしいです。
 6. Codeに戻り右側のReleasesを選択してください。2で作成したファイル名が表示されているはずなので長押しして、リンクアドレスをコピーしてください。この様なファイルがあれば成功です。 `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. 
 7. BromiteのAdBlock settingsを開きFilters URL欄に6でコピーしたアドレスをペーストして保存を選択してください。
 8. Bromiteを再起動すれば完了です。お疲れ様でした！
-9. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。それ以上の場合はリストを削除する必要があります。
+
+注意. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。それ以上の場合はリストを削除する必要があります。
 ### [LICENSE](LICENSE)
 This is free as in freedom software. Do whatever you like with it.
 
