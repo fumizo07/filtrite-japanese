@@ -49,7 +49,7 @@ CSSルールが使えないらしいです。
 8. Bromiteを再起動すれば完了です。お疲れ様でした！
 
 注意. 使用出来るフィルタのサイズは最大[10MB](https://github.com/bromite/bromite/blob/e5771ef891cf01dd5aeaaec5e092841929a9a541/build/patches/Bromite-AdBlockUpdaterService.patch#L1152-L1153)です。それ以上の場合はリストを削除する必要があります。
-### [LICENSE](LICENSE)
+### [LICENSE](LICENSE)(ライセンス)
 This is free as in freedom software. Do whatever you like with it.
 
 ご自由にどうぞ
