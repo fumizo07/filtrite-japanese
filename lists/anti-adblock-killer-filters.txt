@@ -1,0 +1,1 @@
+https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
