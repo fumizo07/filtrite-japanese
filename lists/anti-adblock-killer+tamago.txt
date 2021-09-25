@@ -1,1 +1,2 @@
 https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
