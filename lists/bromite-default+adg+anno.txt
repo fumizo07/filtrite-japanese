@@ -8,3 +8,4 @@ https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://filters.adtidy.org/android/filters/7_optimized.txt
 https://filters.adtidy.org/android/filters/11_optimized.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
