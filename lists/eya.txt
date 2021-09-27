@@ -1,5 +1,0 @@
-https://filters.adtidy.org/android/filters/101_optimized.txt
-https://filters.adtidy.org/android/filters/118_optimized.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt
-https://filters.adtidy.org/android/filters/14_optimized.txt
