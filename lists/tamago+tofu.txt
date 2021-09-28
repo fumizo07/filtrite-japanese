@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
-https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
