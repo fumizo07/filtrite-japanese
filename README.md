@@ -1,4 +1,4 @@
-## filtrite(Bromite用広告ブロックフィルタ生成ツール)
+# filtrite(Bromite用広告ブロックフィルタ生成ツール)
 xarantolus氏が作成した[filtrite](https://github.com/xarantolus/filtrite)に日本語の説明文を追加したものです。※現在工事中
 
 一部README.mdに改変があります。必ずフォーク元の[filtrite](https://github.com/xarantolus/filtrite)もご確認ください。
@@ -7,7 +7,7 @@ filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを
 
 詳細についてはこちらをご覧ください。[Custom Ad Block Filters](https://www.bromite.org/custom-filters) 
 
-# Lists(リスト)
+## Lists(リスト)
 以下から任意のリストを選択し、リンクをコピーしてBromiteに追加できます。 設定に移動して、AdBlock settingsを選択。次に、フィルターURLをコピーしたものに設定します。
 
 リストは次のとおりです。
