@@ -1,2 +1,1 @@
-https://github.com/mikadukiken/AdBlock-Filters/blob/main/Myfilters1.txt
-https://github.com/mikadukiken/AdBlock-Filters/blob/main/Myfilters2.txt
+https://raw.githubusercontent.com/mikadukiken/AdBlock-Filters/master/Myfilters2.txt
