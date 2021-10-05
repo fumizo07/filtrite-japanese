@@ -17,7 +17,7 @@ filtriteは、[Bromite](https://www.bromite.org/).のフィルターリストを
 | ------ | ------|
 | [Bromite Default](https://github.com/mikadukiken/filtrite-japanese/releases/latest/download/bromite-default.dat) | Bromiteの[デフォルトリスト](https://github.com/bromite/filters)と同じ内容(このツールで生成したもの) |
 | [Bromite Extended](https://github.com/mikadukiken/filtrite-japanese/releases/latest/download/bromite-extended.dat) | デスクトップの[uBlockOrigin](https://github.com/gorhill/uBlock)で使用する追加の迷惑ブロッカーを含むデフォルトのリスト |
-| [japanese](https://github.com/mikadukiken/filtrite-japanese/releases/latest/download/bromite-default+tamago.dat) | Bromiteデフォルトに、もちお氏の[たまごフィルタ](https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt)をマージしたもの|
+| [German](https://github.com/mikadukiken/filtrite-japanese/releases/latest/download/german.dat) | ドイツのサイト用の追加の地域固有のブロックリストを含む「BromiteExtended」リスト|
 
 これらのリストは、GitHubアクションを使用して定期的に自動的に更新されます。
 
