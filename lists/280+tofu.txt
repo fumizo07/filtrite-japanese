@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mikadukiken/test/main/280blocker_adblock_202109.txt?token=AVB3UXCR3BHJ6IZ5CEHLWP3BL2HB6
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
