@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/mikadukiken/Private/main/202109.txt?token=AVB3UXDRLVQL627TO7FJWNLBL3XVA
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
