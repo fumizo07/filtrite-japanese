@@ -1,3 +1,0 @@
-https://filters.adtidy.org/android/filters/2_optimized.txt
-https://filters.adtidy.org/android/filters/11_optimized.txt
-https://filters.adtidy.org/android/filters/7_optimized.txt
