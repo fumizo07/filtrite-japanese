@@ -11,6 +11,7 @@
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
+    https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
     
 
     # The following line doesn't work, only put either a comment or an URL in one line, not both
