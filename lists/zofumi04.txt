@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
 
 # AdGuard Base + EasyList
 https://filters.adtidy.org/extension/ublock/filters/2.txt
@@ -32,7 +33,9 @@ https://filters.adtidy.org/extension/ublock/filters/208.txt
 
 # Peter Lowe's Ad and tracking server list
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
-    
-    
 
-# The following line doesn't work, only put either a comment or an URL in one line, not both
+# Fanboy's Annoyance
+https://filters.adtidy.org/extension/ublock/filters/122.txt
+
+# Fanboy's problematic-sites
+https://fanboy.co.nz/fanboy-problematic-sites.txt
