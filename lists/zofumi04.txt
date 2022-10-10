@@ -21,6 +21,9 @@ https://filters.adtidy.org/extension/ublock/filters/17.txt
 # AdGuard Japanese
 https://filters.adtidy.org/extension/ublock/filters/7.txt
 
+# AdGuard Annoyances filter
+https://filters.adtidy.org/extension/ublock/filters/14.txt
+
 # EasyPrivacy
 https://filters.adtidy.org/extension/ublock/filters/118.txt
 
