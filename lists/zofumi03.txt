@@ -6,17 +6,17 @@
     https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
     https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
     https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-    https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+    https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
+    https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
     https://filters.adtidy.org/extension/ublock/filters/2.txt
     https://filters.adtidy.org/extension/ublock/filters/11.txt
+    https://filters.adtidy.org/extension/ublock/filters/14.txt
+    https://filters.adtidy.org/extension/ublock/filters/17.txt
     https://filters.adtidy.org/extension/ublock/filters/118.txt
+    https://filters.adtidy.org/extension/ublock/filters/122.txt
     https://filters.adtidy.org/extension/ublock/filters/208.txt
+    https://fanboy.co.nz/fanboy-problematic-sites.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
     https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt
-    
-    
-
-    # The following line doesn't work, only put either a comment or an URL in one line, not both
-    http://  # Invalid comment on URL
