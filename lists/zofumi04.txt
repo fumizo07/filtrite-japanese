@@ -10,19 +10,11 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-a
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
 
-# AdGuard Base + EasyList
+# AdGuard
 https://filters.adtidy.org/extension/ublock/filters/2.txt
-
-# AdGuard Mobile
 https://filters.adtidy.org/extension/ublock/filters/11.txt
-
-# AdGuard URL Tracking Protection
 https://filters.adtidy.org/extension/ublock/filters/17.txt
-
-# AdGuard Japanese
 https://filters.adtidy.org/extension/ublock/filters/7.txt
-
-# AdGuard Annoyances filter
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 
 # EasyPrivacy
@@ -34,8 +26,10 @@ https://filters.adtidy.org/extension/ublock/filters/208.txt
 # Peter Lowe's Ad and tracking server list
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
 
-# Fanboy's Annoyance
+# Fanboy's
 https://filters.adtidy.org/extension/ublock/filters/122.txt
-
-# Fanboy's problematic-sites
 https://fanboy.co.nz/fanboy-problematic-sites.txt
+
+# Other
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
