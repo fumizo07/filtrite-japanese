@@ -33,3 +33,4 @@ https://fanboy.co.nz/fanboy-problematic-sites.txt
 # Other
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
