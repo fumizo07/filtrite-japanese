@@ -16,6 +16,9 @@ https://filters.adtidy.org/extension/ublock/filters/11.txt
 https://filters.adtidy.org/extension/ublock/filters/17.txt
 https://filters.adtidy.org/extension/ublock/filters/7.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
+https://github.com/Yuki2718/adblock/raw/master/adguard/jpf-plus.txt
+https://github.com/Yuki2718/adblock/raw/master/adguard/jpfp-adguard.txt
+https://github.com/Yuki2718/adblock/raw/master/adguard/jpfp-ublock.txt
 
 # EasyPrivacy
 https://filters.adtidy.org/extension/ublock/filters/118.txt
