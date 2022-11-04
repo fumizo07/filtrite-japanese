@@ -16,9 +16,8 @@ https://filters.adtidy.org/extension/ublock/filters/11.txt
 https://filters.adtidy.org/extension/ublock/filters/17.txt
 https://filters.adtidy.org/extension/ublock/filters/7.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
-https://github.com/Yuki2718/adblock/raw/master/adguard/jpf-plus.txt
-https://github.com/Yuki2718/adblock/raw/master/adguard/jpfp-adguard.txt
-https://github.com/Yuki2718/adblock/raw/master/adguard/jpfp-ublock.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpf-plus.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpfp-ub.txt
 
 # EasyPrivacy
 https://filters.adtidy.org/extension/ublock/filters/118.txt
@@ -34,7 +33,3 @@ https://filters.adtidy.org/extension/ublock/filters/122.txt
 https://fanboy.co.nz/fanboy-problematic-sites.txt
 
 # Other
-https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
-https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
-https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
