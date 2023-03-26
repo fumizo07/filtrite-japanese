@@ -8,22 +8,32 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
-
-# AdGuard
-https://filters.adtidy.org/extension/ublock/filters/2.txt
-https://filters.adtidy.org/extension/ublock/filters/11.txt
-https://filters.adtidy.org/extension/ublock/filters/17.txt
-https://filters.adtidy.org/extension/ublock/filters/7.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
-https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpf-plus.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpfp-ub.txt
+
+# AdGuard Base filter + EasyList
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+# AdGuard Mobile
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# AdGuard JP
+https://filters.adtidy.org/extension/ublock/filters/7.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpf-plus.txt
+
+# AdGuard Tracking Protection
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+
+# AdGuard URL Tracking
+https://filters.adtidy.org/extension/ublock/filters/17.txt
 
 # EasyPrivacy
 https://filters.adtidy.org/extension/ublock/filters/118.txt
 
 # Online Malicious URL Blocklist
 https://filters.adtidy.org/extension/ublock/filters/208.txt
+
+# 亀フィルタ
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kame_filter.txt
 
 # Peter Lowe's Ad and tracking server list
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -33,3 +43,4 @@ https://filters.adtidy.org/extension/ublock/filters/122.txt
 https://fanboy.co.nz/fanboy-problematic-sites.txt
 
 # Other
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
